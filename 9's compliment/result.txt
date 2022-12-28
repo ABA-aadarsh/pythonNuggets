@@ -1,0 +1,19 @@
+
+...........................................................
+Minuend=200
+Subtrahend=123
+Using 9's complement,
+
+9's complement of 123 is
+	 999
+	-123
+	=> 876
+Adding with 200, we get,
+	 876
+	+200
+	=> 1076
+Since there is overflow digit, answer will be positive and 
+be obtained by removing the over flow digit with the last result without overflow digit,
+
+Hence the answer is, 077
+...........................................................
