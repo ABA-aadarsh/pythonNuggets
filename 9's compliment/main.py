@@ -39,5 +39,6 @@ else:
         m="0"*(len(s)-len(m))+m
         complement(m,s)
 print("See the file named 'result.txt'")
+a=input("\nPress any key to exit...")
 
 
